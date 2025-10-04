@@ -13,7 +13,7 @@ const Index = () => {
 
   const galleryImages = [
     {
-      src: '/img/9384817e-672d-48a3-9eff-445e7f6a4caf.jpg',
+      src: '/img/a4c4fdc6-5bf0-401e-bf15-b9cced09bc39.jpg',
       title: 'Основной интерфейс',
       description: 'Современный рабочий стол с чистым дизайном'
     },
