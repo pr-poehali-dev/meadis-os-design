@@ -135,7 +135,7 @@ const Index = () => {
                   <img 
                     src="/img/9384817e-672d-48a3-9eff-445e7f6a4caf.jpg" 
                     alt="Meadis OS Interface"
-                    className="w-full rounded-xl shadow-lg object-contain"
+                    className="w-full rounded-xl shadow-lg object-contain mx-[5px]"
                   />
                 </div>
               </Card>
